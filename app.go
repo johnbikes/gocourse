@@ -8,3 +8,5 @@ func main() {
 
 // run
 // go run app.go
+
+// can then create a module and build
